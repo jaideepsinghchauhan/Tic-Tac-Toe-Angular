@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
 
+## Adding images to preview
+
+![alt text](https://user-images.githubusercontent.com/22664213/65085720-c8fb9f00-d9cc-11e9-9a75-14e1248b7502.JPG)
+
+![alt text](https://user-images.githubusercontent.com/22664213/65085758-e7fa3100-d9cc-11e9-8ef0-ed39330980a5.JPG)
+
+
+## Angular 8 PWA APP
+this app can be added as a shortcut to webpage and can be plyaed offline because of angular service worker feature #PWA.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
